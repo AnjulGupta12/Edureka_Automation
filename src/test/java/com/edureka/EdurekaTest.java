@@ -21,7 +21,7 @@ public class EdurekaTest {
 	Properties prop;
 	
 //	Login to the Edureka
-//	Navigate to ‘My Profile’
+//	Navigate to â€˜My Profileâ€™
 //	Update professional and personal details
 //	Explore the blogs and navigate to the Main page
 //	Logout of the portal
@@ -81,7 +81,7 @@ public class EdurekaTest {
 		e1.printStackTrace();
 	}
 	actions.click();
-	actions.sendKeys("ag.16me05@thdcihet.ac.in");
+	actions.sendKeys("emailid@gmail.com");
 	System.out.println("checkpost 6");
 	try {
 		Thread.sleep(1000);
@@ -100,7 +100,7 @@ public class EdurekaTest {
 	}
 	System.out.println("checkpost 8");
 	actions.click();
-	actions.sendKeys("Anjul12$");
+	actions.sendKeys("password");
 	System.out.println("checkpost 9");
 	try {
 		Thread.sleep(1000);
