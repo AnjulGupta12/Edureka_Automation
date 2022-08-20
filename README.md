@@ -11,9 +11,14 @@ The steps are as follows:
 </h5>
 
  <h4>This video is to show automation of the edureka. How it works and all.</h4>
- <p align='center'><video src='https://user-images.githubusercontent.com/76518288/185739531-6b4f2cfd-ef17-4177-ab0d-a29d05a89e53.mp4' width=180/></br>
-<img src='https://user-images.githubusercontent.com/76518288/185748104-e8b4470f-c007-45a1-8d48-b5c92ea2fc0f.jpg' width=250></br>
-<img src='https://user-images.githubusercontent.com/76518288/185748109-832cde4e-6802-477b-8abf-a971ae154c57.jpg' width=250></br>
-![1](https://user-images.githubusercontent.com/76518288/185748104-e8b4470f-c007-45a1-8d48-b5c92ea2fc0f.jpg)
-![2](https://user-images.githubusercontent.com/76518288/185748109-832cde4e-6802-477b-8abf-a971ae154c57.jpg)
-</p>
+<video  src='https://user-images.githubusercontent.com/76518288/185739531-6b4f2cfd-ef17-4177-ab0d-a29d05a89e53.mp4' width=180/>
+
+<h3>These images show the output of console window</h3>
+ <img src="https://user-images.githubusercontent.com/76518288/185748104-e8b4470f-c007-45a1-8d48-b5c92ea2fc0f.jpg" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/76518288/185748109-832cde4e-6802-477b-8abf-a971ae154c57.jpg" width="500" height="600" ></br>
+
+
+- [1](https://user-images.githubusercontent.com/76518288/185748104-e8b4470f-c007-45a1-8d48-b5c92ea2fc0f.jpg)
+- [2](https://user-images.githubusercontent.com/76518288/185748109-832cde4e-6802-477b-8abf-a971ae154c57.jpg)
+
+![1](https://user-images.githubusercontent.com/76518288/185749457-18dfe7f2-0358-4cb5-8cfb-a616a30a9f7c.jpg)
