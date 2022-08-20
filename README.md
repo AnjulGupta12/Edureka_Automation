@@ -18,6 +18,6 @@ The steps are as follows:
 
 <h3>These images show the output of console window</h3>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/76518288/185748104-e8b4470f-c007-45a1-8d48-b5c92ea2fc0f.jpg" width="250" height="300">
-<img src="https://user-images.githubusercontent.com/76518288/185748109-832cde4e-6802-477b-8abf-a971ae154c57.jpg" width="250" height="300" >
+ <img src="https://user-images.githubusercontent.com/76518288/185748104-e8b4470f-c007-45a1-8d48-b5c92ea2fc0f.jpg" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/76518288/185748109-832cde4e-6802-477b-8abf-a971ae154c57.jpg" width="350" height="300" >
 </p>
