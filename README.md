@@ -9,3 +9,6 @@ The steps are as follows:
 4.	Explore the blogs and navigate to the Main page
 5.	Logout of the portal
 </h5>
+
+ <h4>This video is to show automation of the edureka. How it works and all.</h4>
+ <video src='https://user-images.githubusercontent.com/76518288/185739531-6b4f2cfd-ef17-4177-ab0d-a29d05a89e53.mp4' width=180/>
